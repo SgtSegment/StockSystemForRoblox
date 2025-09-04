@@ -1,0 +1,7 @@
+{
+    "//": "Formatted like: [ItemName, Chance of it spawning (1 in x chance), A, B]",
+    "//": "A, B is basically just math.random(A, B). It dictates the amount of a something to spawn.",
+    "stock": [
+        
+    ]
+}
